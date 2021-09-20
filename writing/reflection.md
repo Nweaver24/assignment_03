@@ -1,7 +1,7 @@
 ### FS101_F2021
 
 ### Title:
-Assignment 3: Class Activity and Speaking about the FS101 Event: _Do All First-year Students Think The Same?_
+Assignment 3: Class Activity and Speaking About the FS101 Event, _Do All First-year Students Think The Same?_
 
 ### Assigned
 Monday, 19 September 2021
@@ -10,7 +10,7 @@ Monday, 19 September 2021
 Friday, 24 September 2021
 
 ### Deliverable
-Please see slides for details of the deliverable.
+Please see slides for details of the written and speaking deliverables.
 
 ### Your Name
 Add your name here

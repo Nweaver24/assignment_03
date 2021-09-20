@@ -2,7 +2,7 @@
 
 
 ### Title:
-Assignment 3: Class Activity and Speaking about the FS101 Event: _Do All First-year Students Think The Same?_
+Assignment 3: Class Activity and Speaking About the FS101 Event, _Do All First-year Students Think The Same?_
 
 ### Due
 By Friday's class: 24 Sept 2021
