@@ -13,7 +13,7 @@ Friday, 24 September 2021
 Please see slides for details of the written and speaking deliverables.
 
 ### Your Name
-Add your name here
+Nick Weaver
 
 ---
 ##### Questions Over a Selected Plot
@@ -22,20 +22,18 @@ Choose a plot from the slides of 20 September 2021 and address the below questio
 Questions
 
  1. What plot did you choose for this critique? Please describe the plot by mentioning the title and slide number.
+I chose to do plot 1
 
-`TODO`
-
- 2. For this plot, what did you find was wrong with its information in terms of its presentation of the data?
-
- `TODO`
+ 2. For this plot, what did you find was wrong with its information in terms of its presentation of the data
+It had the graph shaded non traditionally to portray the numbers in a different way.
 
  3. If the graph has been plotted in a way that was less misleading, would the "message" of the plot still be the same? In other words, was this plot designed to mislead? How?
 
- `TODO`
+I do not think it would be seen the same way. It is portayed in a way in which it at first makes you think the gun violence is down but it in fact is up when you take a closer look
 
  4. Can you think of any ethical problems that may result from a misunderstanding of the data in the plot? What type of upset or damage could result from this misunderstanding?
 
- `TODO`
+People may believe that because of the law it is displaying that the actual opposite may be true.
 
 ---
 
